@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Farah!
 
-<!--
-**farah-113/farah-113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a third-year Computer Science & Engineering student at the Technical University of Cluj-Napoca, Romania.
 
-Here are some ideas to get you started:
+I'm particularly interested in the intersection of hardware and software, with a focus on digital hardware design, computer architecture, and embedded systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Interests
+
+- FPGA development and RTL design
+- Processor architecture and digital systems
+- Hardware verification and fault-tolerant computing
+- Embedded systems and firmware
+- Low-level and systems programming
+
+## Currently Working On
+
+A fault-tolerant RV32I processor using Triple Modular Redundancy (TMR).
+
+The single-cycle processor implementation and component-level self-checking testbenches are completed. I'm currently extending the architecture to incorporate fault tolerance.
+
+## Technologies
+
+**Hardware:** VHDL, FPGA, Xilinx Vivado, Artix-7
+
+**Programming:** C, C++, Python, Java, x86 Assembly
+
+**Embedded Systems:** Arduino, I2C, UART, Sensor Integration
+
+**Development:** Linux, Git, GitHub, MySQL
